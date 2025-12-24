@@ -4,7 +4,7 @@ A passionate developer who loves building projects with Java, Python, and JavaSc
 
 ---
 
-## 💻 Skills
+## Skills
 <div>
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
