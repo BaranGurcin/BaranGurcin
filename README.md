@@ -2,8 +2,6 @@
 
 A passionate developer who loves building projects with Java, Python, and JavaScript. Currently diving into the world of Machine Learning!  
 
----
-
 ## Skills
 <div>
   <!-- Languages -->
