@@ -2,7 +2,7 @@
 
 A passionate developer who loves building projects with Java, Python, and JavaScript. Currently diving into the world of Machine Learning!  
 
-## Skills
+## Technologies
 <div>
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
