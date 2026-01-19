@@ -1,6 +1,6 @@
 # Hi there 👋, I'm BG
 
-A passionate developer who loves building projects with Java, Python, and JavaScript. Currently diving into the world of Machine Learning!  
+I'm a developer who loves building projects with Java, Python, and JavaScript. Currently learning the world of Machine Learning!  
 
 ## Tools & Technologies
 <div>
