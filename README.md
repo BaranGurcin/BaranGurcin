@@ -1,6 +1,6 @@
-# Hi there 👋, I'm BG
+# Hi , I'm BG
 
-I'm a developer who loves building projects with Java, Python, and JavaScript. Currently learning the world of Machine Learning!  
+I code.
 
 ## Tools & Technologies
 <div>
