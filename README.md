@@ -1,6 +1,6 @@
 # Hi , I'm BG
 
-I like coding, especially when needed.
+I like coding
 
 ## Tools & Technologies
 <div>
