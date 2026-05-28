@@ -1,20 +1,64 @@
-# Hi , I'm BG
+# 👋 Hi, I'm BG
 
-I like coding
+3rd year Computer Science student passionate about software development, backend systems.
 
-## Tools & Technologies
-<div>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+I enjoy building real-world projects and constantly improving my skills in modern technologies. 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL" width="40" height="40"/>
-</div>
+Currently diving into Machine Learning world.
 
+---
+
+## 🧠 About Me
+- 💻 Focused on Java & Spring Boot backend development  
+- 🤖 Currently learning Machine Learning & AI  
+- 🌐 Interested in full-stack development  
+- 🔧 Love building scalable and practical systems  
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 💡 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+---
+
+### Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+</p>
+
+---
+
+### 🐳 DevOps & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+- 🧠 Machine Learning fundamentals  
+- ☕ Java & Spring Boot  
+- 🌐 Full-stack web development  
+- 🧩 System design basics  
+
+---
+
+## 🚀 Goal
+To become a skilled software engineer who builds efficient, scalable, and intelligent systems that solve real-world problems.
+
+---
