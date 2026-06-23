@@ -39,8 +39,3 @@ Currently diving into Machine Learning world.
 - 🧩 System design basics  
 
 ---
-
-## 🚀 Goal
-To become a skilled software engineer who builds efficient, scalable, and intelligent systems that solve real-world problems.
-
----
