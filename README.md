@@ -1,22 +1,22 @@
-# 👋 Hi, I'm BG
+# Hi, I'm BG
 
-3rd year Computer Science student passionate about software development, backend systems.
+3rd year Computer Science student interested in software development and backend systems.
 
-I enjoy building real-world projects and constantly improving my skills in modern technologies. 
+I like building real world projects and constantly improving my skills in modern technologies. 
 
 Currently diving into Machine Learning world.
 
 ---
 
-## 🧠 About Me
-- 💻 Focused on Java & Spring Boot backend development  
-- 🤖 Currently learning Machine Learning & AI  
-- 🌐 Interested in full-stack development  
-- 🔧 Love building scalable and practical systems  
+## About Me
+-  Focused on Java & Spring Boot backend development  
+-  Currently learning Machine Learning & AI  
+-  Interested in full-stack development  
+-  Love building scalable and practical systems  
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -29,13 +29,5 @@ Currently diving into Machine Learning world.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/>
 </p>
-
----
-
-## 🎯 Current Focus
-- 🧠 Machine Learning fundamentals  
-- ☕ Java & Spring Boot  
-- 🌐 Full-stack web development  
-- 🧩 System design basics  
 
 ---
